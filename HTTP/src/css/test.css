@@ -1,0 +1,15 @@
+
+td {
+    padding: 10px 20px;
+}
+
+table tr :nth-child(odd) {
+    background-color: red;
+}
+
+table tr :nth-child(even) {
+    background-color: rgb(194, 192, 193);
+}
+table,td{
+    border-collapse: collapse;
+}
